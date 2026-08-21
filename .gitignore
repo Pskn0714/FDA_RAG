@@ -1,0 +1,21 @@
+# Environment & Secrets
+.env
+.env.*
+
+# Python Cache & Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# Editor & IDE settings
+.vscode/
+.idea/
+
+# Data Folders
+data/
+JSONforOCR/
+
+# Other Docs / Assets
+CODE_EXPLANATION_TH.md
+workflow_rag.svg
